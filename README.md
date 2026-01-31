@@ -19,3 +19,5 @@ We’ve now set the stage to make a distinction between ordinary programs and sy
 System programs make requests for resources and services directly from the operating system.
 
 From its beginning, Unix was designed around a small set of clever ideas, as its authors, Dennis Ritchie and Ken Thompson, put it: “The success of UNIX lies not so much in new inventions but rather in the full exploitation of a carefully selected set of fertile ideas, and especially in showing that they can be keys to the implementation of a small yet powerful operating system”. Those “fertile ideas” included the concepts of a programmable shell, users and groups, privileged and unprivileged instructions, environments, files and the directory hierarchy, device-independent input and output, and most important, processes.
+
+The kernel is a program, or a collection of interacting programs, depending on the particular implementation of Unix, with many entry points.
